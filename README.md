@@ -1,2 +1,5 @@
 # NCSC-NL
-subdomains that should be in scope
+https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd
+
+
+this repository contains subdomains that should be in scope
